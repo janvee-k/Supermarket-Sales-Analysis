@@ -1,4 +1,4 @@
-# Supermarket Sales Analysis – Power BI + Python Project
+# Supermarket Sales Analysis
 
 This project presents a full-scale sales analysis using both Python (Jupyter Notebook) and Power BI. It analyzes supermarket transactional data to extract insights into sales, customer behavior, payment modes, and product performance across cities and branches.
 
